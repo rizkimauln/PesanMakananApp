@@ -16,16 +16,16 @@ Aplikasi ini bertujuan untuk mempermudah pengguna dalam melakukan pemesanan maka
 
 <table>
   <tr>
-    <td><img src="images/1.png" width="200"/></td>
-    <td><img src="images/2.png" width="200"/></td>
-    <td><img src="images/3.png" width="200"/></td>
-    <td><img src="images/4.png" width="200"/></td>
+    <td><img src="images/1.jpeg" width="200"/></td>
+    <td><img src="images/2.jpeg" width="200"/></td>
+    <td><img src="images/3.jpeg" width="200"/></td>
+    <td><img src="images/4.jpeg" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="images/5.png" width="200"/></td>
-    <td><img src="images/6.png" width="200"/></td>
-    <td><img src="images/7.png" width="200"/></td>
-    <td><img src="images/8.png" width="200"/></td>
+    <td><img src="images/5.jpeg" width="200"/></td>
+    <td><img src="images/6.jpeg" width="200"/></td>
+    <td><img src="images/7.jpeg" width="200"/></td>
+    <td><img src="images/8.jpeg" width="200"/></td>
   </tr>
 </table>
 
