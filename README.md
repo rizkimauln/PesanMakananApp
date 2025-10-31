@@ -27,9 +27,9 @@ Aplikasi ini bertujuan untuk mempermudah pengguna dalam melakukan pemesanan maka
   * BottomNavigationView
   * ConstraintLayout / LinearLayout
 
-## ✨ Penulis
+## ✨ Pembuat
 
 👤 **Rizki Maulana**
+**NIM : 1237050088**
+**Kelas : 5D**
 Mahasiswa Informatika — UIN Sunan Gunung Djati Bandung
-📍 Sukabumi
-📅 Semester 3
