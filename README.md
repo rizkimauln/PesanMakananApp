@@ -16,18 +16,19 @@ Aplikasi ini bertujuan untuk mempermudah pengguna dalam melakukan pemesanan maka
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/811ce6ce-7099-48e7-8eb2-7525563b6586" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f90c813f-2cac-4007-9f50-a296b6dbc3f3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3c1711be-2353-46e1-a5eb-b6a3a712d360" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/19995ac8-2e1b-4d01-8339-9f2a53f7d0b2" width="200"/></td>
+    <td><img src="images/1.png" width="200"/></td>
+    <td><img src="images/2.png" width="200"/></td>
+    <td><img src="images/3.png" width="200"/></td>
+    <td><img src="images/4.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/c4b58226-26d2-4b49-8eac-edc99ddd90c6" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2086c87e-270d-4dc8-94e7-4b5ea1fab4ea" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cabc278c-97b3-4ca6-92a4-6356a6da4cc7" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f33bea17-9586-4dca-bac6-1edeeb5afcaa" width="200"/></td>
+    <td><img src="images/5.png" width="200"/></td>
+    <td><img src="images/6.png" width="200"/></td>
+    <td><img src="images/7.png" width="200"/></td>
+    <td><img src="images/8.png" width="200"/></td>
   </tr>
 </table>
+
 
 ---
 
